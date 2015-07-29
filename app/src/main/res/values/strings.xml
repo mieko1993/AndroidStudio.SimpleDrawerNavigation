@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Drawer Navigation</string>
+
+
+    <string name="abierto">abierto</string>
+    <string name="cerrado">cerrado</string>
+
+
+    <string name="fragmento1">Fragmento1</string>
+    <string name="fragmento2">Fragmento2</string>
+    <string name="fragmento3">Fragmento3</string>
+    <string name="fragmento4">Fragmento4</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragmento1_1">Fragmento1_1</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
